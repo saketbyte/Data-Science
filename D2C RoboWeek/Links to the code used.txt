@@ -1,0 +1,7 @@
+For background removal:
+https://colab.research.google.com/drive/1U5DofE1Iha9UJ5XbSqp0_TlpmojcNvpX?usp=sharing
+
+
+
+For cartoonization effect:
+https://colab.research.google.com/drive/1aWMyNqByrSt8fc8YxeaVLFBDTRg0h4bf?usp=sharing
