@@ -4,3 +4,4 @@
 4. Humanoid Speech and CV -  Using computer vision for person's face recognition and made a simple chat bot
 		 	     to answer various queries by user.
 5. Twitter Sentiment Analysis -  Used naive bayes to predict the sentiment of a tweet.
+6. Practise notebooks- Several notebooks containing self-practise codes now and then for data wrangling and predictive analysis.
