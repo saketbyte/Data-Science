@@ -1,7 +1,14 @@
-# Data-Science
-The repository is supposed to address my own end to end developed projects and relevant information.
-Dataset link:https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech
+# Twitter Sentiment Analysis
 
-Model based on Naive-Bayes .
+The project is hosted here - 
 
-Use: To analyse the essential sentiment of a tweet or similar text.
+About Dataset
+[Dataset link:](https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech)
+
+The dataset was quite imbalance with around 4000 negative labels out of 32000 labels.
+
+Model :Extreme Gradient Boosted on Tree.
+
+Use: To analyse the essential sentiment of a tweet or few lines.
+
+
